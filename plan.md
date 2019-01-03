@@ -1,18 +1,5 @@
-# Задача
-
-Сделать план обучения по Python и с на 2019 год c помощью GitHub Pages.
-Ссылка на страницу: [https://drewleks.github.io/personal-education-plan/](https://drewleks.github.io/personal-education-plan/)
-
-## Используемые инструменты и технологии
-
-* HTML
-* CSS
-* Bootstrap, ссылка на тему: [https://hackerthemes.com/bootstrap-themes/demo/neon-glow/](https://hackerthemes.com/bootstrap-themes/demo/neon-glow/)
-* GitHub Pages
-***
-
-## :crossed_flags: План обучения
-### :computer: Курсы 
+# :crossed_flags: План обучения
+## :computer: Курсы 
 - [ ] Django Girls Tutorial, Django Girls
 - [ ] Automate the Boring Stuff with Python Programming, Udemy
 - [ ] Elements of Artificial Intelligence, The University of Helsinki
@@ -23,7 +10,7 @@
 - [x] ~~Анализ данных на практике, Openedu~~ :sunglasses:
 - [x] ~~Power BI 101~~ :sunglasses:
 
-#### На заметку
+### На заметку
 - [ ] Statistics with Python, University of Michigan
 - [ ] Курс обучения Гит на русском, Git How To
 - [ ] Faster Data Science Education, Kaggle
@@ -35,7 +22,7 @@
 ***
 
 
-### :books: Книги 
+## :books: Книги 
 - [ ] Автоматизация рутинных задач, Эл Свейгарт
 - [ ] BIG DATA, Андреас Вайгенд
 - [ ] Изучаем Python, Эрик Метиз
@@ -44,7 +31,7 @@
 - [ ] Маркетинговые исследования, С. Божук
 - [x] ~~Питон для детей, Джейсон Бриггс~~ :sunglasses:
 
-#### На заметку
+### На заметку
 - [ ] Аналитическая культура, Карл Андерсон
 - [ ] О чем говорят цифры, Томас Дэвенпорт, Ким Хо
 - [ ] Думай как математик, Барбара Оакли
@@ -59,22 +46,20 @@
 ***
 
 
-### :dart: Сервисы и треки 
+## :dart: Сервисы и треки 
 - [ ] Data Camp, datacamp.com
 - [ ] Data Quest, dataquest.io
 - [ ] CodeAcademy, codecademy.com
 - [ ] Питонтьютор, pythontutor.ru
 - [x] SoloLearn, sololearn.com
 
-#### На заметку
+### На заметку
 - [ ] Python Challenge, pythonchallenge.com
 - [ ] Python path, pluralsight.com
 - [ ] Python is Easy, pirple.thinkific.com
 - [ ] DevMan, dvmn.org
 - [ ] Shultais, shultais.education
-
 ***
 
 
-#### Последнее обновление
-03.01.2019
+
