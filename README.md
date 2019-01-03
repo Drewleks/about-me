@@ -31,7 +31,7 @@
 ## Проекты
 Учебные и рабочие проекты публикую в отдельных репозиториях.
 
-[Ссылка](https://github.com/Drewleks?tab=repositories) на репозитории.
+[Ссылка](https://github.com/Drewleks?tab=repositories){:target="_blank"} на репозитории.
 
 
 ### Лицензии
@@ -42,4 +42,4 @@
 
 
 #### Отдельное спасибо
-[Алексею Привалову](https://github.com/alexprivalov) за его [пост](http://alexprivalov.org/setup-blog-on-github/) по настройке блога.
+[Алексею Привалову](https://github.com/alexprivalov){:target="_blank"} за его [пост](http://alexprivalov.org/setup-blog-on-github/){:target="_blank"} по настройке блога.
