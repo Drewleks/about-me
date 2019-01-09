@@ -12,7 +12,8 @@
 - [x] ~~Power BI 101~~ :sunglasses:
 
 ### На заметку
-- [ ] Statistics with Python, University of Michigan
+- [ ] Statistics with Python, University of Michigan via Coursera
+- [ ] Python for Everybody, University of Michigan via Coursera
 - [ ] Курс обучения Гит на русском, Git How To
 - [ ] Faster Data Science Education, Kaggle
 - [ ] Python for Data Science, Cognitiveclass
