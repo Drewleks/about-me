@@ -1,6 +1,7 @@
 # :crossed_flags: План обучения
 ## :computer: Курсы 
 - [ ] Django Girls Tutorial, Django Girls
+- [ ] Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
 - [ ] Automate the Boring Stuff with Python Programming, Udemy
 - [ ] Elements of Artificial Intelligence, The University of Helsinki
 - [ ] Основы статистики 1, 2, 3, Степик
@@ -24,16 +25,16 @@
 
 ## :books: Книги 
 - [ ] Автоматизация рутинных задач, Эл Свейгарт
-- [ ] BIG DATA, Андреас Вайгенд
 - [ ] Изучаем Python, Эрик Метиз
+- [ ] О чем говорят цифры, Томас Дэвенпорт, Ким Хо
 - [ ] Много цифр, Джон Форман
 - [ ] Анализ данных, В. Мхитарян
 - [ ] Маркетинговые исследования, С. Божук
+- [x] ~~BIG DATA, Андреас Вайгенд~~ :sunglasses:
 - [x] ~~Питон для детей, Джейсон Бриггс~~ :sunglasses:
 
 ### На заметку
 - [ ] Аналитическая культура, Карл Андерсон
-- [ ] О чем говорят цифры, Томас Дэвенпорт, Ким Хо
 - [ ] Думай как математик, Барбара Оакли
 - [ ] Измеряйте самое важное, Джон Дорр
 - [ ] Экстремальное программирование, Кент Бек
@@ -59,6 +60,7 @@
 - [ ] Python is Easy, pirple.thinkific.com
 - [ ] DevMan, dvmn.org
 - [ ] Shultais, shultais.education
+- [ ] Hour of Python Challenges, hourofpython.com
 ***
 
 
