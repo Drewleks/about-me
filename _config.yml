@@ -8,14 +8,14 @@ permalink:        pretty
 
 # Setup
 title:            Блог
-tagline:          'A Jekyll theme'
+tagline:          'Из маркетинга в аналитику'
 description:      'Страницы в разработке, извините за неудобства'
 url:              
 baseurl:          ''
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           
+  url:            
 
 paginate:         5
 
