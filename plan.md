@@ -3,18 +3,17 @@ layout: page
 title: План обучения на 2019
 ---
 
-# План обучения
 ## Курсы 
-- [ ] Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
-- [ ] Automate the Boring Stuff with Python Programming, Udemy
-- [ ] Elements of Artificial Intelligence, The University of Helsinki
+ [ ] Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
+ [ ] Automate the Boring Stuff with Python Programming, Udemy
 - [ ] Основы статистики 1, 2, 3, Степик
 - [ ] Практический курс парсинга сайтов на Python, Олег Молчанов
 - [ ] Программист Python, GeekBrains
+- [x] ~~Elements of Artificial Intelligence, The University of Helsinki~~
 - [x] ~~Django Girls Tutorial, Django Girls~~
-- [x] ~~GitHab Learning lab, GitHub~~ :sunglasses:
-- [x] ~~Анализ данных на практике, Openedu~~ :sunglasses:
-- [x] ~~Power BI 101~~ :sunglasses:
+- [x] ~~GitHab Learning lab, GitHub~~
+- [x] ~~Анализ данных на практике, Openedu~~
+- [x] ~~Power BI 101~~
 
 ### На заметку
 - [ ] Statistics with Python, University of Michigan via Coursera
