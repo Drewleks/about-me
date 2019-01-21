@@ -1,12 +1,17 @@
+---
+layout: page
+title: plan.html
+---
+
 # :crossed_flags: План обучения
 ## :computer: Курсы 
-- [ ] Django Girls Tutorial, Django Girls
 - [ ] Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
 - [ ] Automate the Boring Stuff with Python Programming, Udemy
 - [ ] Elements of Artificial Intelligence, The University of Helsinki
 - [ ] Основы статистики 1, 2, 3, Степик
 - [ ] Практический курс парсинга сайтов на Python, Олег Молчанов
 - [ ] Программист Python, GeekBrains
+- [x] ~~Django Girls Tutorial, Django Girls~~
 - [x] ~~GitHab Learning lab, GitHub~~ :sunglasses:
 - [x] ~~Анализ данных на практике, Openedu~~ :sunglasses:
 - [x] ~~Power BI 101~~ :sunglasses:
