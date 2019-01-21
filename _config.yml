@@ -9,9 +9,9 @@ permalink:        pretty
 # Setup
 title:            Блог
 tagline:          'Из маркетинга в аналитику'
-description:      'Страницы в разработке, извините за неудобства'
-url:              
-baseurl:          ''
+description:      'Страницы в разработке, извините за неудобства.'
+url:              https://alekseev.tech
+baseurl:          /
 
 author:
   name:           
