@@ -36,9 +36,8 @@
 
 ### Лицензии
 
-* Резюме: Creative Commons Attribution 3.0 - [Pillar theme](https://github.com/xriley/pillar-theme)
-* План обучения: Creative Commons Attribution 3.0 - [Orbit theme](https://github.com/xriley/Orbit-Theme)
-* Блог: Open sourced under the under the MIT license - [Hyde](https://github.com/poole/hyde)
+* Creative Commons Attribution 3.0 - [Pillar theme](https://github.com/xriley/pillar-theme), [Orbit theme](https://github.com/xriley/Orbit-Theme)
+* Open sourced under the under the MIT license - [Hyde](https://github.com/poole/hyde)
 
 
 #### Отдельное спасибо
