@@ -4,8 +4,9 @@ title: План обучения на 2019
 ---
 
 ## Курсы 
- [ ] Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
- [ ] Automate the Boring Stuff with Python Programming, Udemy
+Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
+ 
+Automate the Boring Stuff with Python Programming, Udemy
 - [ ] Основы статистики 1, 2, 3, Степик
 - [ ] Практический курс парсинга сайтов на Python, Олег Молчанов
 - [ ] Программист Python, GeekBrains
