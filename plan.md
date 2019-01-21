@@ -1,10 +1,10 @@
 ---
 layout: page
-title: plan.html
+title: План обучения на 2019
 ---
 
-# :crossed_flags: План обучения
-## :computer: Курсы 
+# План обучения
+## Курсы 
 - [ ] Data Analysis and Presentation Skills: the PwC Approach, PwC via Coursera
 - [ ] Automate the Boring Stuff with Python Programming, Udemy
 - [ ] Elements of Artificial Intelligence, The University of Helsinki
@@ -29,7 +29,7 @@ title: plan.html
 ***
 
 
-## :books: Книги 
+## Книги 
 - [ ] Автоматизация рутинных задач, Эл Свейгарт
 - [ ] Изучаем Python, Эрик Метиз
 - [ ] О чем говорят цифры, Томас Дэвенпорт, Ким Хо
@@ -53,7 +53,7 @@ title: plan.html
 ***
 
 
-## :dart: Сервисы и треки 
+## Сервисы и треки 
 - [ ] Data Camp, datacamp.com
 - [ ] Data Quest, dataquest.io
 - [ ] CodeAcademy, codecademy.com
