@@ -43,13 +43,13 @@ title: Обучение
 - [x] [~~Питон для детей, Джейсон Бриггс~~](https://www.ozon.ru/context/detail/id/140025249/)
 
 ### На заметку
-- [ ] [Аналитическая культур]а(https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
+- [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
 - [ ] [Думай как математики](https://www.litres.ru/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee/)
 - [ ] [Измеряйте самое важное](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
 - [ ] [Экстремальное программирование](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [ ] [Теоретический минимум по Computer Science](https://www.litres.ru/vladston-ferreyra-fi/teoreticheskiy-minimum-po-computer-science-v-34946144/)
-- [ ] [Индустрия счастья(https://www.litres.ru/uilyam-devis/industriya-schastya-kak-big-data-i-novye-tehnologii-pomogaut-dobavit-emociu-v-tovary-i-uslugi/)
-- [ ] [Верховный алгоритм, Педро Домингос](https://www.litres.ru/pedro-domingos/verhovnyy-algoritm-kak-mashinnoe-obuchenie-izmenit-nash-mir/)
+- [ ] [Индустрия счастья](https://www.litres.ru/uilyam-devis/industriya-schastya-kak-big-data-i-novye-tehnologii-pomogaut-dobavit-emociu-v-tovary-i-uslugi/)
+- [ ] [Верховный алгоритм](https://www.litres.ru/pedro-domingos/verhovnyy-algoritm-kak-mashinnoe-obuchenie-izmenit-nash-mir/)
 - [ ] [Постигая Agile](https://www.litres.ru/dzhennifer-grin/postigaya-agile/)
 - [ ] [Руководство по DevOps](https://www.litres.ru/dzhez-hambl/rukovodstvo-po-devops-kak-dobitsya-gibkosti-nadezhnosti-i-bezo/)
 - [ ] [От разработчика до руководителя](https://www.litres.ru/kamil-furne/ot-razrabotchika-do-rukovoditelya-menedzhment-dlya-it-speciali/)
