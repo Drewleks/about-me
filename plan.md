@@ -39,8 +39,11 @@ title: Обучение
 - [ ] [Много цифр](https://www.ozon.ru/context/detail/id/34806852/)
 - [ ] [Анализ данных](https://biblio-online.ru/book/analiz-dannyh-432178)
 - [ ] [Маркетинговые исследования](https://biblio-online.ru/book/marketingovye-issledovaniya-426419)
-- [x] [~~BIG DATA, Андреас Вайгенд~~](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
-- [x] [~~Питон для детей, Джейсон Бриггс~~](https://www.ozon.ru/context/detail/id/140025249/)
+- [ ] [Data Analysis from Scratch with Python](https://www.amazon.com/Data-Analysis-Scratch-Python-Visualization-ebook/dp/B07GFQCKNR)
+- [ ] [Data Analytics: 4 Books in 1- Bible of 4 Manuscripts](https://www.amazon.com/gp/product/B07D3RJB2W)
+- [x] [~~Statistics: Concepts and Fundamentals for Absolute Beginner~~](https://www.amazon.com/gp/product/B07HW1HR3T)
+- [x] [~~BIG DATA. Вся технология в одной книге~~](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
+- [x] [~~Python для детей. Самоучитель по программированию~~](https://www.ozon.ru/context/detail/id/140025249/)
 
 ### На заметку
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
