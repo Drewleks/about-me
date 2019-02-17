@@ -10,9 +10,10 @@ title: Обучение
 - [ ] [Практический курс парсинга сайтов на Python](https://p-notes.ru/)
 - [ ] [Программист Python](https://geekbrains.ru/professions/python_developer)
 - [ ] [Прикладной статистический анализ](https://openedu.ru/course/hse/STATAN/)
-- [x] [~~Elements of Artificial Intelligence, The University of Helsinki~~](https://course.elementsofai.com/)
-- [x] [~~Django Girls Tutorial, Django Girls~~](https://tutorial.djangogirls.org/ru/)
-- [x] [~~GitHab Learning lab, GitHub~~](https://lab.github.com/courses)
+- [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
+- [x] [~~Elements of Artificial Intelligence~~](https://course.elementsofai.com/)
+- [x] [~~Django Girls Tutorial~~](https://tutorial.djangogirls.org/ru/)
+- [x] [~~GitHab Learning lab~~](https://lab.github.com/courses)
 - [x] [~~Анализ данных на практике~~](https://openedu.ru/course/mipt/DATA_AN/)
 - [x] [~~Статистика для гуманитариев~~](https://openedu.ru/course/tgu/Stat/)
 - [x] [~~Power BI 101~~](https://docs.microsoft.com/ru-ru/learn/paths/create-use-analytics-reports-power-bi/)
@@ -32,8 +33,6 @@ title: Обучение
 
 ## Книги 
 - [ ] [Автоматизация рутинных задач](https://www.ozon.ru/context/detail/id/137673590/)
-- [ ] [Data Analytics: 4 Books in 1- Bible of 4 Manuscripts](https://www.amazon.com/gp/product/B07D3RJB2W/)
-- [ ] [Data Analysis From Scratch With Python](https://www.amazon.com/gp/product/B07F193447/)
 - [ ] [Изучаем Python](https://www.ozon.ru/context/detail/id/138132785/)
 - [ ] [О чем говорят цифры](https://www.litres.ru/kim-ho/o-chem-govoryat-cifry-kak-ponimat-i-ispolzovat-dannye/)
 - [ ] [Много цифр](https://www.ozon.ru/context/detail/id/34806852/)
@@ -47,7 +46,7 @@ title: Обучение
 
 ### На заметку
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
-- [ ] [Думай как математики](https://www.litres.ru/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee/)
+- [ ] [Думай как математик](https://www.litres.ru/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee/)
 - [ ] [Измеряйте самое важное](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
 - [ ] [Экстремальное программирование](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [ ] [Теоретический минимум по Computer Science](https://www.litres.ru/vladston-ferreyra-fi/teoreticheskiy-minimum-po-computer-science-v-34946144/)
