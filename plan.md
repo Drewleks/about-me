@@ -34,12 +34,12 @@ title: Обучение
 ## Книги 
 - [ ] [Автоматизация рутинных задач](https://www.ozon.ru/context/detail/id/137673590/)
 - [ ] [Изучаем Python](https://www.ozon.ru/context/detail/id/138132785/)
-- [ ] [О чем говорят цифры](https://www.litres.ru/kim-ho/o-chem-govoryat-cifry-kak-ponimat-i-ispolzovat-dannye/)
 - [ ] [Много цифр](https://www.ozon.ru/context/detail/id/34806852/)
 - [ ] [Анализ данных](https://biblio-online.ru/book/analiz-dannyh-432178)
 - [ ] [Маркетинговые исследования](https://biblio-online.ru/book/marketingovye-issledovaniya-426419)
 - [ ] [Data Analysis from Scratch with Python](https://www.amazon.com/Data-Analysis-Scratch-Python-Visualization-ebook/dp/B07GFQCKNR)
 - [ ] [Data Analytics: 4 Books in 1- Bible of 4 Manuscripts](https://www.amazon.com/gp/product/B07D3RJB2W)
+- [x] [~~О чем говорят цифры~~](https://www.litres.ru/kim-ho/o-chem-govoryat-cifry-kak-ponimat-i-ispolzovat-dannye/)
 - [x] [~~Statistics: Concepts and Fundamentals for Absolute Beginner~~](https://www.amazon.com/gp/product/B07HW1HR3T)
 - [x] [~~BIG DATA. Вся технология в одной книге~~](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
 - [x] [~~Python для детей. Самоучитель по программированию~~](https://www.ozon.ru/context/detail/id/140025249/)
