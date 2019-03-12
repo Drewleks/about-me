@@ -5,6 +5,7 @@ title: Обучение
 
 ## Курсы 
 - [ ] [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics)
+- [ ] [Анализ данных. Яндекс Практикум](https://praktikum.yandex.ru/data-analyst/)
 - [ ] [Automate the Boring Stuff with Python Programming](https://www.udemy.com/automate)
 - [ ] [Основы статистики 1, 2, 3, Степик](https://stepik.org/course/76)
 - [ ] [Практический курс парсинга сайтов на Python](https://p-notes.ru/)
@@ -39,6 +40,7 @@ title: Обучение
 - [ ] [Маркетинговые исследования](https://biblio-online.ru/book/marketingovye-issledovaniya-426419)
 - [ ] [Data Analysis from Scratch with Python](https://www.amazon.com/Data-Analysis-Scratch-Python-Visualization-ebook/dp/B07GFQCKNR)
 - [ ] [Data Analytics: 4 Books in 1- Bible of 4 Manuscripts](https://www.amazon.com/gp/product/B07D3RJB2W)
+- [x] [Измеряйте самое важное](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
 - [x] [~~О чем говорят цифры~~](https://www.litres.ru/kim-ho/o-chem-govoryat-cifry-kak-ponimat-i-ispolzovat-dannye/)
 - [x] [~~Statistics: Concepts and Fundamentals for Absolute Beginner~~](https://www.amazon.com/gp/product/B07HW1HR3T)
 - [x] [~~BIG DATA. Вся технология в одной книге~~](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
@@ -47,7 +49,6 @@ title: Обучение
 ### На заметку
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
 - [ ] [Думай как математик](https://www.litres.ru/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee/)
-- [ ] [Измеряйте самое важное](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
 - [ ] [Экстремальное программирование](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [ ] [Теоретический минимум по Computer Science](https://www.litres.ru/vladston-ferreyra-fi/teoreticheskiy-minimum-po-computer-science-v-34946144/)
 - [ ] [Индустрия счастья](https://www.litres.ru/uilyam-devis/industriya-schastya-kak-big-data-i-novye-tehnologii-pomogaut-dobavit-emociu-v-tovary-i-uslugi/)
