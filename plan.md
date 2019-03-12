@@ -40,7 +40,7 @@ title: Обучение
 - [ ] [Маркетинговые исследования](https://biblio-online.ru/book/marketingovye-issledovaniya-426419)
 - [ ] [Data Analysis from Scratch with Python](https://www.amazon.com/Data-Analysis-Scratch-Python-Visualization-ebook/dp/B07GFQCKNR)
 - [ ] [Data Analytics: 4 Books in 1- Bible of 4 Manuscripts](https://www.amazon.com/gp/product/B07D3RJB2W)
-- [x] [Измеряйте самое важное](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
+- [x] [~~Измеряйте самое важное~~](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
 - [x] [~~О чем говорят цифры~~](https://www.litres.ru/kim-ho/o-chem-govoryat-cifry-kak-ponimat-i-ispolzovat-dannye/)
 - [x] [~~Statistics: Concepts and Fundamentals for Absolute Beginner~~](https://www.amazon.com/gp/product/B07HW1HR3T)
 - [x] [~~BIG DATA. Вся технология в одной книге~~](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
