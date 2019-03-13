@@ -11,6 +11,7 @@ title: Обучение
 - [ ] [Практический курс парсинга сайтов на Python](https://p-notes.ru/)
 - [ ] [Программист Python](https://geekbrains.ru/professions/python_developer)
 - [ ] [Прикладной статистический анализ](https://openedu.ru/course/hse/STATAN/)
+- [x] [~~Введение в инженерию больших данных~~](https://openedu.ru/course/misis/ABD/)
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
 - [x] [~~Elements of Artificial Intelligence~~](https://course.elementsofai.com/)
 - [x] [~~Django Girls Tutorial~~](https://tutorial.djangogirls.org/ru/)
