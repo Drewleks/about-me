@@ -11,7 +11,7 @@ title:            Блог
 tagline:          'Из маркетинга в аналитику'
 description:      'Страницы в разработке, извините за неудобства.'
 url:              https://drewleks.github.io/about-me/
-baseurl:          https://drewleks.github.io/about-me/
+baseurl:          ''
 
 author:
   name:           
