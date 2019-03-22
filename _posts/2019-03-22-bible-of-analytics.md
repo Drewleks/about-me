@@ -4,7 +4,7 @@ title: Bible of 4 Manuscripts — несвященная книга
 ---
 
 ![placeholder]({{ site.baseurl }}/assets/images/2019-03-22-bible-of-analytics/bible-of-analytics.png "Data Analytics: 4 Books in 1 - Bible of 4 Manuscripts - Beginner's Guide")
-Прочел [Data Analytics: 4 Books in 1](https://www.amazon.com/dp/B07D3RJB2W). Может я английский не осилил, но книга показалась состоящей в большей степени из воды. И да, в целом это не одна большая книга, состоящая из 4 книг, а небольшая книга, в которой 4 главы, по 50 страниц. В общем поставил 2 из 5 на Goodreads. Лучшие цитаты:
+Прочел [Data Analytics: 4 Books in 1](https://www.amazon.com/dp/B07D3RJB2W). Может я английский не осилил, но книга показалась состоящей в большей степени из воды. И да, в целом это не одна большая книга, состоящая из 4 книг, а небольшая книга, в которой 4 главы по 50 страниц. В общем поставил 2 из 5 на Goodreads. Лучшие цитаты:
 
 **Цитаты:**
 > If your company is like most, you are likely generating far more information every day than you can realistically
