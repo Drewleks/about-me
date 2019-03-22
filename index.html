@@ -21,7 +21,7 @@ title: Блог
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Назад</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Назад</a>
   {% else %}
     <span class="pagination-item older">Назад</span>
   {% endif %}
@@ -29,7 +29,7 @@ title: Блог
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Вперед</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Вперед</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Вперед</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Вперед</span>
