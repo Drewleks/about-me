@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Резюме
+title: Резюме1
 ---
 <iframe src="https://drive.google.com/file/d/1u2ySsxriiO8MkkHuxD4DBUvkpLn68DNU/preview" width="100%" height="700"></iframe>
 ---
