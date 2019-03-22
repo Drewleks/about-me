@@ -23,18 +23,20 @@ title: Bible of 4 Manuscripts — несвященная книга
 
 ***
 
-The more you practice, the more accurate and faster your analysis will get.
+> The more you practice, the more accurate and faster your analysis will get.
 
 **10 Tips for easier Data Analysis**
-- 1 Look at the descriptive stats first
-- 2 Trim the data before the analysis, which makes it easier to focus
-- 3 Your should never analyze your master copy
-- 4 Your hypothesis should be based on theory and not a hunch
-- 5 Be okay with the fact that you may not find significance
-- 6 Check your assumptions before you start to analyze the data
-- 7 Select you analysis carefully
-- 8 Keep in mind that there are no bad results
-- 9 Make use of syntax to automate your repetitive analyses
-- 10 Make sure you have a concise, specific, and clear hypothesis before you start
+1. Look at the descriptive stats first
+2. Trim the data before the analysis, which makes it easier to focus
+3. Your should never analyze your master copy
+4. Your hypothesis should be based on theory and not a hunch
+5. Be okay with the fact that you may not find significance
+6. Check your assumptions before you start to analyze the data
+7. Select you analysis carefully
+8. Keep in mind that there are no bad results
+9. Make use of syntax to automate your repetitive analyses
+10. Make sure you have a concise, specific, and clear hypothesis before you start
+
+---
 
 А вот спецпроект на [Постнауке](https://postnauka.ru/courses/74896) от Сколтеха вполне неплох, хотя некоторые места в видео нужно пару раз пересматривать — термины специфичные используют, не для новичков.
