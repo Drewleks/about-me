@@ -10,6 +10,7 @@ title: Обучение
 - [ ] [Практический курс парсинга сайтов на Python](https://p-notes.ru/)
 - [ ] [Программист Python](https://geekbrains.ru/professions/python_developer)
 - [ ] [Введение в Data Science и машинное обучение](https://stepik.org/course/4852)
+- [x] [~~Игровая аналитика, от основ к продвинутым методам~~](https://edu.devtodev.com/online-course/game-analytics-basics-rus/)
 - [x] [~~Курс об аналитике для предпринимателей~~](http://smysl.io/courses/data-1/)
 - [x] [~~Прикладной статистический анализ~~](https://openedu.ru/course/hse/STATAN/)
 - [x] [~~Automate the Boring Stuff with Python Programming~~](https://www.udemy.com/automate)
