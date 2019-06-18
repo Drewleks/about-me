@@ -44,6 +44,7 @@ title: Обучение
 - [ ] [Анализ данных](https://biblio-online.ru/book/analiz-dannyh-432178)
 - [ ] [Маркетинговые исследования](https://biblio-online.ru/book/marketingovye-issledovaniya-426419)
 - [ ] [Data Analysis from Scratch with Python](https://www.amazon.com/Data-Analysis-Scratch-Python-Visualization-ebook/dp/B07GFQCKNR)
+- [x] [~~Big data простым языком~~](https://www.litres.ru/aleksey-blagirev/big-data-prostym-yazykom/)
 - [x] [~~Data Analytics: 4 Books in 1- Bible of 4 Manuscripts~~](https://www.amazon.com/gp/product/B07D3RJB2W)
 - [x] [~~Измеряйте самое важное~~](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
 - [x] [~~О чем говорят цифры~~](https://www.litres.ru/kim-ho/o-chem-govoryat-cifry-kak-ponimat-i-ispolzovat-dannye/)
