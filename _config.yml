@@ -7,9 +7,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Блог
+title:            Блог1
 tagline:          'Из маркетинга в аналитику'
-description:      'Страницы в разработке, извините за неудобства.'
+description:      'Пишу о попытках освоить Python и большие данные'
 url:              https://drewleks.github.io/
 baseurl:          "/about-me"
 
