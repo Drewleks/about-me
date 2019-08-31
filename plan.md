@@ -44,6 +44,7 @@ title: Обучение
 - [ ] [Анализ данных](https://biblio-online.ru/book/analiz-dannyh-432178)
 - [ ] [Маркетинговые исследования](https://biblio-online.ru/book/marketingovye-issledovaniya-426419)
 - [ ] [Data Analysis from Scratch with Python](https://www.amazon.com/Data-Analysis-Scratch-Python-Visualization-ebook/dp/B07GFQCKNR)
+- [x] [~~Экстремальное программирование~~](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [x] [~~Big data простым языком~~](https://www.litres.ru/aleksey-blagirev/big-data-prostym-yazykom/)
 - [x] [~~Data Analytics: 4 Books in 1- Bible of 4 Manuscripts~~](https://www.amazon.com/gp/product/B07D3RJB2W)
 - [x] [~~Измеряйте самое важное~~](https://www.litres.ru/dzhon-dorr/izmeryayte-samoe-vazhnoe-kak-google-intel-i-drugie-kompanii-dob/)
@@ -55,7 +56,6 @@ title: Обучение
 ### На заметку
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
 - [ ] [Думай как математик](https://www.litres.ru/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee/)
-- [ ] [Экстремальное программирование](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [ ] [Теоретический минимум по Computer Science](https://www.litres.ru/vladston-ferreyra-fi/teoreticheskiy-minimum-po-computer-science-v-34946144/)
 - [ ] [Индустрия счастья](https://www.litres.ru/uilyam-devis/industriya-schastya-kak-big-data-i-novye-tehnologii-pomogaut-dobavit-emociu-v-tovary-i-uslugi/)
 - [ ] [Верховный алгоритм](https://www.litres.ru/pedro-domingos/verhovnyy-algoritm-kak-mashinnoe-obuchenie-izmenit-nash-mir/)
