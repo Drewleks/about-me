@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Книжный кактус
+title: Новинка от Фирмы
 ---
 
 ![placeholder]({{ site.baseurl }}/assets/images/2019-12-15-digital-scale/digital-scale.jpg "Обложка книги Digital Scale")
