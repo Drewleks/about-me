@@ -8,8 +8,8 @@ permalink:        pretty
 
 # Setup
 title:            Блог
-tagline:          'Из маркетинга в аналитику'
-description:      'о попытках освоить Python и Big Data'
+tagline:          'Из глухого маркетинга в глубокую аналитику'
+description:      'Из глухого маркетинга в глубокую аналитику'
 url:              https://drewleks.github.io/
 baseurl:          "/about-me"
 
